@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://silly-griffin-b9ecc6.netlify.app/sitemap.xml
